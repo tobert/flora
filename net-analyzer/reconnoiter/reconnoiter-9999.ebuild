@@ -2,8 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
-#EGIT_REPO_URI="git://github.com/omniti-labs/reconnoiter.git"
-EGIT_REPO_URI="git://github.com/tobert/reconnoiter.git"
+EGIT_REPO_URI="git://github.com/omniti-labs/reconnoiter.git"
 EAPI=4
 
 inherit eutils git
